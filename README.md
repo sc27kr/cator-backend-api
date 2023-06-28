@@ -15,7 +15,7 @@ docker-compose -v
 Clone this repo.
 
 ```bash
-git clone https://github.com/sc27kr/cator-backend-api.git
+git clone https://github.com/sc27kr/laravel-cator-backend-api.git
 ```
 
 Copy .env.
