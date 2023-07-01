@@ -1,6 +1,6 @@
 # Cator (Cat + Mentor) Back-End API
 
-An API to manage Q&A built with Laravel
+An API to manage Q&A built with Laravel.
 
 ## Getting started
 
