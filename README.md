@@ -36,7 +36,7 @@ sail php -v
 Create database and migrate.
 
 ```bash
-sail artisan migrate:fresh --seed
+sail artisan migrate --seed
 ```
 
 List all registered routes.
